@@ -16,7 +16,7 @@ Step 1. Download the project from [Official Website](https://jmeter.apache.org/d
 
 Step 2. To run the tests execute the following command 
 ```bash
-jmeter -n -t <test JMX file> -l <test log file> -e -o <Path to output folder>
+./jmeter -n -t <test JMX file> -l <test log file> -e -o <Path to output folder>
 ```
 
 The following tests were performed:
